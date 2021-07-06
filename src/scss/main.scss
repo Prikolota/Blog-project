@@ -1,0 +1,15 @@
+// Libs
+@import "./libs/bootstrap/bootstrap-reboot";
+@import "./libs/bootstrap/bootstrap-grid";
+
+// Vars
+@import "./vars/variables";
+
+// Base
+@import "./base/base";
+
+// Blocks
+@import "./blocks/**/*.scss";
+
+// font-family: 'Montserrat', sans-serif; - Base font
+// font-family: 'Playfair Display', serif;
